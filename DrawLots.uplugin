@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "DrawLots",
+	"Description": "Lottery that can designate winning weights",
+	"Category": "Other",
+	"CreatedBy": "Narcis Software",
+	"CreatedByURL": "https://github.com/shun126/DrawLots",
+	"DocsURL": "https://github.com/shun126/DrawLots/wiki",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/bc4a0884e1da458bb35c38379cd26ecb",
+	"SupportURL": "https://github.com/shun126/DrawLots/discussions/",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "DrawLots",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64", "Android"
+			]
+		}
+	]
+}
