@@ -35,11 +35,11 @@ First, prepare the lottery data in variables.
 ![DrawLots-BP](https://github.com/shun126/DrawLots/assets/23472415/df31ac0b-e5f6-46d6-be8c-17afba08ef98)
 
 1. create a node referring to Blueprint
-1. use function `DrawLotsIndex` to draw the variable `DrawLotsIndex
+1. use function `DrawLotsIndex` to draw the variable `DrawLotsIndex`
    1. return the winning array number
-   1. return -1 if the lottery cannot be drawn, e.g. if you set all probabilities to 0
-   1. disable `consecutive` to prevent the same number from being drawn consecutively 1. use the variable `DrawLotsIndex
-1. use function `DrawLotsObject` to draw the variable `DrawLotsObject
+   1. return `-1` if the lottery cannot be drawn, e.g. if you set all probabilities to 0
+   1. disable `consecutive` to prevent the same number from being drawn consecutively 1. use the variable `DrawLotsIndex`
+1. use function `DrawLotsObject` to draw the variable `DrawLotsObject`
    1. return the winning item
-   1. return nullptr if the item cannot be drawn, e.g. if you set all probabilities to 0
+   1. return `nullptr` if the item cannot be drawn, e.g. if you set all probabilities to 0
    1. if consecutive is disabled, the same item will not be drawn consecutively
