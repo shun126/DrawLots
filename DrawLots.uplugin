@@ -10,7 +10,7 @@
 	"DocsURL": "https://github.com/shun126/DrawLots/wiki",
 	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/bc4a0884e1da458bb35c38379cd26ecb",
 	"SupportURL": "https://github.com/shun126/DrawLots/discussions/",
-	"CanContainContent": false,
+	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
