@@ -8,7 +8,7 @@ This plugin allows you to draw lots according to the probability of winning.
 * Prepare Lottery Data
   * Preparing the lottery data as an index
   * Preparing the lottery data as an object
-* Drawing lots
+* Draw lots !
 
 # Prepare the lottery data
 First, prepare the lottery data in variables.
@@ -43,3 +43,9 @@ First, prepare the lottery data in variables.
    1. return the winning item
    1. return `nullptr` if the item cannot be drawn, e.g. if you set all probabilities to 0
    1. if consecutive is disabled, the same item will not be drawn consecutively
+
+# 👾 Authors
+* [Nonbiri](https://www.youtube.com/channel/UCkLXe57GpUyaOoj2ycREU1Q)
+* [Shun Moriya](https://twitter.com/moriya_zx25r)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M413XDXB)
