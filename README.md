@@ -1,6 +1,12 @@
 # DrawLots
 Lottery plugin to specify winning weight for Unreal Engine
 
+[![Unreal Engine Supported Versions](https://img.shields.io/badge/Unreal_Engine-5.1~5.4-9455CE?logo=unrealengine)](https://www.unrealengine.com/)
+[![license](https://img.shields.io/github/license/shun126/DrawLots)](https://github.com/shun126/DrawLots/blob/main/LICENSE)
+[![release](https://img.shields.io/github/v/release/shun126/DrawLots)](https://github.com/shun126/DrawLots/releases)
+[![downloads](https://img.shields.io/github/downloads/shun126/DrawLots/total)](https://github.com/shun126/DrawLots/releases)
+[![stars](https://img.shields.io/github/stars/shun126/DungeonGenerator?style=social)](https://github.com/shun126/DrawLots/stargazers)
+
 Have you ever had trouble processing a lottery?
 This plugin allows you to draw lots according to the probability of winning.
 
@@ -46,6 +52,6 @@ First, prepare the lottery data in variables.
 
 # 👾 Authors
 * [Nonbiri](https://www.youtube.com/channel/UCkLXe57GpUyaOoj2ycREU1Q)
-* [Shun Moriya](https://twitter.com/moriya_zx25r)
+* [Shun Moriya](https://x.com/moriya_zx25r)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M413XDXB)
