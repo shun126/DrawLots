@@ -4,7 +4,7 @@
 [![license](https://img.shields.io/github/license/shun126/DrawLots)](https://github.com/shun126/DrawLots/blob/main/LICENSE)
 [![release](https://img.shields.io/github/v/release/shun126/DrawLots)](https://github.com/shun126/DrawLots/releases)
 [![downloads](https://img.shields.io/github/downloads/shun126/DrawLots/total)](https://github.com/shun126/DrawLots/releases)
-[![stars](https://img.shields.io/github/stars/shun126/DungeonGenerator?style=social)](https://github.com/shun126/DrawLots/stargazers)
+[![stars](https://img.shields.io/github/stars/shun126/DrawLots?style=social)](https://github.com/shun126/DrawLots/stargazers)
 
 Lottery plugin to specify winning weight for Unreal Engine
 
