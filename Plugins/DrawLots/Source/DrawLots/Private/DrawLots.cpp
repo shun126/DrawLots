@@ -7,6 +7,8 @@ https://www.youtube.com/channel/UCkLXe57GpUyaOoj2ycREU1Q
 */
 
 #include "DrawLots.h"
+#include "BuildInformation.h"
+#include "PluginInformation.h"
 #include <GenericPlatform/GenericPlatformMath.h>
 
 UObject* FDrawLotsObject::Draw(const bool consecutive) const
